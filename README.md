@@ -33,5 +33,5 @@ This function calculates the maximum value of sigma such that the system can be 
     kp_max: Proportional gain corresponding to sigma_max.
     ki_max: Integral gain corresponding to sigma_max.
 ## Used functions
-To find the self-intersections of the curve we use intersections, provided by Doug Schwarz. On the Matlab File Exchange: https://fr.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections 
-kpw and kiw give the corresponding stability crossing curve (kp, ki) for a given sigma 
+- To find the self-intersections of the curve we use intersections, provided by Doug Schwarz. On the Matlab File Exchange: https://fr.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections 
+- kpw and kiw give the corresponding stability crossing curve (kp, ki) for a given sigma 
