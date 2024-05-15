@@ -9,7 +9,7 @@ Finds the minimal spectral abscissa achievable for a linear second-order non-min
 ## Syntax
 
 ```matlab
-[sigma_max, kp_max, ki_max] = find_sigma_max(a, b, z, h, w_1, w_2, sigma_1, sigma_2, p, ps)
+[sigma_max, kp_max, ki_max] = SAOpt(a, b, z, h, w_1, w_2, sigma_1, sigma_2, p, ps)
 ```
 ## Description
 
